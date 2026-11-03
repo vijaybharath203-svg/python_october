@@ -13,4 +13,4 @@ if total >= 1000:
     print ("final amount to pay:", final_amount)
 else:
     print ("no discount applied")
-    print ("total amount :",total)
+    print ("total amount :",total) 
